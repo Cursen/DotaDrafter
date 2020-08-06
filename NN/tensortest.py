@@ -26,7 +26,7 @@ def split_list(alist, splitPerc: float):
 class Main:
 
     def __init__(self):
-        self.fdb = firebase.Main()
+        self.fdb = firebase.FirebaseTools()
         self.trainingMatches = []
         self.testingMatches = []
         self.heroes = []
@@ -36,13 +36,13 @@ class Main:
 
 
     def main(self, train):
-        self.heroes = self.fdb.firebase_tools.getHeroes()
+        self.heroes = self.fdb.getHeroes()
         self.heroLength = len(self.heroes)
         if train:
             self.trainModel()
 
     def checkLength(self):
-        self.fdb.firebase_tools.checkLengths()
+        self.fdb.checkLengths()
 
     # Due to matches ids not being structured properly from 0 to LEN, it needs to be converted
     def convertToNeuralId(self, heroId):

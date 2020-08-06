@@ -1,12 +1,12 @@
 import firebase_admin
 from firebase_admin import credentials, db
+import os
 
 
 class FirebaseTools:
     def __init__(self):
         # this needs to link to the .json file given by firebaseConsole.
-
-        cred = credentials.Certificate("/home/skogheimesports/stratzscript/FireKey.json")
+        cred = credentials.Certificate("./FireKey.json")
         # this needs to be linked to the database URL in firebaseConsole.
         firebase_admin.initialize_app(cred, {
             'databaseURL': 'https://dota-2-draft-db.firebaseio.com/'

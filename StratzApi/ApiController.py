@@ -7,7 +7,7 @@ from Match import Match
 class Main:
 
     def __init__(self):
-        self.fdb = Firebase.Main()
+        self.fdb = Firebase.FirebaseTools()
         self.gMatches = []
         self.matches = []
 
@@ -35,7 +35,7 @@ class Main:
             self.gMatches.remove(match)
 
     def resetScrapedMatches(self):
-        self.matches = self.fdb.firebase_tools.getScrapedMatches()
+        self.matches = self.fdb.getScrapedMatches()
 
 
 if __name__ == '__main__':

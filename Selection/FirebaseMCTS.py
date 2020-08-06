@@ -1,7 +1,10 @@
+import os
+
 import firebase_admin
 from firebase_admin import credentials, db
 from Hero import Hero
 from MatchC import Match
+import os
 
 class FirebaseTools:
     def __init__(self):
