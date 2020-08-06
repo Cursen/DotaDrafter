@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "dota-2-draft-db",
+  "private_key_id": "c5c86ffd49a3825d9e0e72bd09b669b5cb98b77d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC1vK6N59zC5O+T\nLUL4m5M5MrNvzjyNsKueOuPmym+Oh4+6k+aAW14BuQArVW0bWU4DG2tETjgsNAk7\nWA7Jylpd45lKO8vFlOVjwH3JUPhqVmo8pxIc44taoWih6g/Iz4p4dABIeIqk1c9w\nxcSXqwymw+82tzAphvUckDp2qlT7EpRc+DLPHhSpVgrqXBp6MdqD1JP0pHCUK6Xj\nW11SOV6vx7inZCOJKo/0bEhzEuw65H64FBRNf8Cz5pGQf+xJgsiE+puEBI7jHAcs\nBFLjI2q49wGY0dlpiarvXmhm9toQkqyRGh++HdY7nE8BIqo52eUlXcZspnODkegb\ndOy7ElbpAgMBAAECggEAJMB5p0pgl0wvU7rXPInPqcVCSsWw8rFr31WG8Yz2JuNs\nsj1HI6V2exAzw8+kfx+d+lxg4qET1IKYbFcYNIAWqr6EaSHzCSudgQD0HxJgDjcY\nCFh7/foZHBSgoX/BPemUldvVk9JGrWNsriBca5SEfDQK6+x7UaaQanyTShyTj2tA\n8zUfgbgswUxl6LrPIE09xmQP+opk8tlIE47u/cgZgl69g9OTm9vsnxQfen2UDXMy\nmviI1ocy88mepvnkMjVcLb420hxYaB6FoU+9mXffGmV2OTtE+JfgbVc6SIOx796y\n6jqVdneQ9mmkrUNnlQZKdQmGGOfzCYb29Ivyh/18tQKBgQDbjhjTFGphUbpV+Jwk\nlq5Wb5WWgx+wzJkFC/dxdVJfxh2NwnFMOmgcUOJbGjz0kTDK5+OQWDcimtsLtgnu\nDooTFRPOWco1vIgKM1QqrgdznHn94SQc5HHt4e7jqgWA55ZEITKgeI0O6PKXg2GK\njfKRlo3DP5BKP9YN6crl3t/V7QKBgQDT54XxBIxkmJ4/aKK+NA3u2wBYimUsKDTT\nihKsIWA3qyrx4IJMKn0AWKaTlo8djjhYK4NP+3u/WIVYZqLrN3Wx+QS0yqE3IYwx\ntRbhoKWa4bzHeg0REtYrfNP+QpX8BZdxRVE78d0lVZjRf0nXNDlaKtGX/i558DnN\ngM8AQB0lbQKBgCqIZJa/pbwksQxmlRkhd7SW+UunK0R83kf0AYOhTsvu/VqxCHHT\n/sc9hBxSAO0AE4u7UIJuFIBHr5edNF9Bwc3gj22yR1IRq+kN+IgsHpVvAtMEApL2\nTnvfAQBpt5c5Rgr8w2oC8JCq4BQqB4Nn7E339I6WicVYiIc5e2z8uDAhAoGANil0\nO9FszP2RXSWyiykk8os5gGgHSg0Qy4z8DtENFc2DUYWP6EXn42HFWe3esLA8SJT+\noD/oNlU66Ah71eE8DPxYLpmoMT465i2iJpN4IKlYJihVFKsa4MysJs4AJgWL2uDb\nzZWZb8R8JfgB+KaZjilpnw7R9Erpi1REFI1OpdUCgYEAv/05lkkGW5lRmSfbPmJ1\nZZLDBOH60eN6gYR1oNqKAN6XX0AQJnUr1yGlIR332JZt4d+d4+AAkS8+h6HEazo0\nlESY8NTTiklFh6ANAqm55UFZe9nWgtuXZGWi32nQNxlvYiHa24Fw6GLbYOrt7b61\nw8jqPNO6Yssrns5xZNVQ0+Q=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-hrsv7@dota-2-draft-db.iam.gserviceaccount.com",
+  "client_id": "114271301551644491297",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-hrsv7%40dota-2-draft-db.iam.gserviceaccount.com"
+}

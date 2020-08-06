@@ -1,0 +1,16 @@
+{'direHeroes':
+{'Player128': {'Hero_id': 87, 'steam_id': 112474614},
+  'Player129': {'Hero_id': 54, 'steam_id': 58970928},
+  'Player130': {'Hero_id': 59, 'steam_id': 165429100},
+  'Player131': {'Hero_id': 20, 'steam_id': 243847000},
+  'Player132': {'Hero_id': 126, 'steam_id': 55247751}},
+  'matchId': '5266219292',
+  'radiantHeroes':
+  {'Player0': {'Hero_id': 105, 'steam_id': 279224976},
+    'Player1': {'Hero_id': 14, 'steam_id': 116170443},
+    'Player2': {'Hero_id': 114, 'steam_id': 301152026},
+    'Player3': {'Hero_id': 42, 'steam_id': 71329938},
+    'Player4': {'Hero_id': 1, 'steam_id': 70693482}},
+  'radiantWin': False,
+  'regionId': 8,
+  'startDateTime': 1582920786}
